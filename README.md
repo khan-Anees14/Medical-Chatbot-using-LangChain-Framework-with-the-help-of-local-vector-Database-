@@ -29,6 +29,8 @@ Frontend  -> HTML, CSS, JavaScript
 
 Backend	-> Flask
 
+Mongo-DB  ->   for storing Chat between user and Bot
+
 LLM Framework	-> LangChain
 
 Embeddings	-> HuggingFace
