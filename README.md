@@ -24,14 +24,20 @@ The chatbot provides token-by-token streaming responses, supports dark mode, and
 ⚡ Lightweight & beginner-friendly
 
 🛠️ Tech Stack
-Layer	Technology
-Frontend	HTML, CSS, JavaScript
-Backend	Flask
-LLM Framework	LangChain
-Embeddings	HuggingFace
-Vector DB	FAISS
-Local Model	TinyLLaMA / LLaMA (GGUF)
-Styling	Custom CSS (Light + Dark mode)
+
+Frontend  -> HTML, CSS, JavaScript
+
+Backend	-> Flask
+
+LLM Framework	-> LangChain
+
+Embeddings	-> HuggingFace
+
+Vector DB	-> FAISS
+
+Local Model	-> TinyLLaMA / LLaMA (GGUF)
+
+Styling	    -> Custom CSS (Light + Dark mode)
 
 
 💬 How It Works
